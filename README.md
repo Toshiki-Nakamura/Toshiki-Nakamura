@@ -9,7 +9,8 @@
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&hide=issues" />
  
 ## 42 stats
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/intra_id)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tnakamur?privacyEmail=false)](https://github.com/JaeSeoKim/badge42)
+
 
 
 ## Skills
