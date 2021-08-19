@@ -1,18 +1,22 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+---
+
 ## Github stats
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  -->
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&theme=vue-dark&hide_border=true&layout=compact&count_private=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&hide=issues" />
 
 
-### Skills
+## Skills
 <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> 
 <img src="https://img.shields.io/badge/linux%20-4682B4.svg?&style=for-the-badge&logo=linux&logoColor=0000FF"/> 
 <img src="https://img.shields.io/badge/Docker-EEE.svg?logo=docker&style=for-the-badge"/> 
 <img src="https://img.shields.io/badge/git%20-FF4500.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/node.js%20-32CD32.svg?&style=for-the-badge&logo=node.js&logoColor=FFFFFF"/> 
-<br><br><br><br>
+
+<br><br><br>
+
 ##
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/> 
 
