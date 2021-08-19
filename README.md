@@ -10,10 +10,7 @@
 <img src="https://img.shields.io/badge/Docker-EEE.svg?logo=docker&style=for-the-badge"/> 
 <img src="https://img.shields.io/badge/git%20-FF4500.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/node.js%20-32CD32.svg?&style=for-the-badge&logo=node.js&logoColor=FFFFFF"/> 
-  
-  
-  
-  
+<br><br><br><br>
 ##
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/> 
 
