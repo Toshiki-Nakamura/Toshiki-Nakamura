@@ -6,7 +6,7 @@
 
 ### Skills
 <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/git%20-FFF8C00.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/git%-FFF8C00.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Docker-EEE.svg?logo=docker&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/linux%20-F050532.svg?&style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
 
