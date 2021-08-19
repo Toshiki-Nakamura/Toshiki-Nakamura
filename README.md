@@ -8,10 +8,6 @@
 <!--  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&theme=vue-dark&hide_border=true&layout=compact&count_private=true" />  -->
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&hide=issues" />
  
-## 42 stats
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tnakamur?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
-
-
 
 ## Skills
 <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> 
@@ -19,6 +15,9 @@
 <img src="https://img.shields.io/badge/Docker-EEE.svg?logo=docker&style=for-the-badge"/> 
 <img src="https://img.shields.io/badge/git%20-FF4500.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/node.js%20-32CD32.svg?&style=for-the-badge&logo=node.js&logoColor=FFFFFF"/> 
+
+## 42 stats
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tnakamur?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
 <br><br><br>
 
