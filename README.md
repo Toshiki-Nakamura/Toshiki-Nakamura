@@ -5,7 +5,7 @@
 ## Github stats
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  -->
- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&theme=vue-dark&hide_border=true&layout=compact&count_private=true&hide=swift,objective-c,php" /> <img height="150" src="https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&hide=contribute" />
+ <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&theme=vue-dark&hide_border=true&layout=compact&count_private=true&hide=swift,objective-c,php,roff" /> <img height="150" src="https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&hide=contribute" />
  
 
 ## Skills
@@ -18,7 +18,8 @@
 <!-- ## 42 stats
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tnakamur?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42) -->
 
-<br><br><br>
+<br>
+---
 
 ##
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/> 
