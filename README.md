@@ -18,10 +18,7 @@
 <!-- ## 42 stats
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tnakamur?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42) -->
 
-<br>
 ---
-
-##
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/> 
 
 <!--
