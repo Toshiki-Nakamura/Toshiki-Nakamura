@@ -1,8 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## Github stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  -->
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&show_icons=true&theme=vue" /> 
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats" />
+
 
 ### Skills
 <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> 
