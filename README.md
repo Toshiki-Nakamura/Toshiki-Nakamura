@@ -4,6 +4,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
+### Skills
+<img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/ruby%20-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/slack%20-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/vscode%20-007ACC.svg?&style=for-the-badge&logo=slack&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/git%20-F050532.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
 
 <!--
 **Toshiki-Nakamura/Toshiki-Nakamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
