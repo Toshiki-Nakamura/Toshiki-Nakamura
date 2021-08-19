@@ -5,7 +5,7 @@
 ## Github stats
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  -->
- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&theme=vue-dark&hide_border=true&layout=compact&count_private=true&hide=swift,objective-c,php" /> <img height="150" src="https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&hide=issues" />
+ <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiki-Nakamura&theme=vue-dark&hide_border=true&layout=compact&count_private=true&hide=swift,objective-c,php" /> <img height="150" src="https://github-readme-stats.vercel.app/api?username=Toshiki-Nakamura&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact" />
  
 
 ## Skills
