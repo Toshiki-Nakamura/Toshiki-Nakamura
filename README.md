@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/Docker-EEE.svg?logo=docker&style=for-the-badge"/> 
 <img src="https://img.shields.io/badge/git%20-FF4500.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/node.js%20-32CD32.svg?&style=for-the-badge&logo=node.js&logoColor=FFFFFF"/> 
+<!-- <img src="https://img.shields.io/badge/go%20-C0C0C0.svg?&style=for-the-badge&logo=go&logoColor=00FFFF"/> -->
 
 <!-- ## 42 stats
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tnakamur?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42) -->
