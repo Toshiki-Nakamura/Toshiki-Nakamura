@@ -1,6 +1,6 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-student at 42tokyo(https://42tokyo.jp/)
+a software development student at 42tokyo(https://42tokyo.jp/)
 
 ---
 
