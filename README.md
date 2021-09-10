@@ -1,7 +1,5 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-a software development student at 42tokyo(https://42tokyo.jp/)
-
 ---
 
 ## Github stats
